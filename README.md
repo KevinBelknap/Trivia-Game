@@ -5,4 +5,4 @@ Click the start button to begin. Answer the 5 questions as fast and correctly as
 ## Website Preview 
 ![image](https://github.com/KevinBelknap/Trivia-Game/assets/128446838/aa57d816-ae54-4626-b46d-89994a73c337)
 ## Link to website
-
+https://kevinbelknap.github.io/Trivia-Game/
